@@ -1,11 +1,11 @@
 Summary:	Digital Audio Workstatiton
 Name:		ardour
-Version:	2.8.14
+Version:	2.8.16
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	%{name}-%{version}.tar.bz2
-# Source0-md5:	c79219ba10735d0b061d53a84ae611a4
+# Source0-md5:	5bafe41df00d25e7a357baaa1038f16d
 BuildRequires:	aubio-devel
 BuildRequires:	fftw3-single-devel
 BuildRequires:	gtkmm-devel
